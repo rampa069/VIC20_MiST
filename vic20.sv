@@ -21,7 +21,7 @@
 
 `default_nettype none
 
-module vic20_mist
+module guest_top
 (
 	input         CLOCK_27,
 `ifdef USE_CLOCK_50
